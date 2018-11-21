@@ -1,7 +1,5 @@
-# hw08-seed
+# hw08-alvin-q
 
-This repo contains the BC Liquor app as a boilerplate for students to add to in Homework 08.
+This homework repo contains a Shiny app for gapminder. The file is here:
 
-The code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial). The code can specifically be found [here](https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code).
-
-
+- [Alvin's Gapminder Shiny App](https://github.com/STAT545-UBC-students/hw08-alvin-q/tree/master/gapmindr_alvin/app.R)
