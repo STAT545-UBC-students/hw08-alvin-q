@@ -3,6 +3,7 @@ library(gapminder)
 library(tidyverse)
 library(DT)
 library(shinythemes)
+library(rsconnect)
 
 # Define UI for application
 ui <- fluidPage(
